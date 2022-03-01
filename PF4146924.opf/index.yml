@@ -1,0 +1,10 @@
+id: 2dd0badc30fd434bb8f62e153a3e9a41
+annotation_type: index
+revision: '00001'
+annotations:
+  2dddb963157e4cac98d48c142b1f8383:
+    work_id: W830E548A
+    span:
+      vol: .txt
+      start: 0
+      end: 0
